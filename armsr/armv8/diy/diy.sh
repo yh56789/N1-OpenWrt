@@ -8,6 +8,7 @@ git clone https://github.com/ophub/luci-app-amlogic --depth=1 clone/amlogic
 git clone https://github.com/Openwrt-Passwall/openwrt-passwall --depth=1 clone/passwall
 git clone https://github.com/QiuSimons/luci-app-daed clone/daed
 git clone https://github.com/Zerogiven-OpenWRT-Packages/luci-app-podman --depth=1 feeds/luci/applications/luci-app-podman
+git clone https://github.com/EasyTier/luci-app-easytier feeds/luci/applications/luci-app-easytier
 
 # Adjust packages
 rm -rf feeds/luci/applications/luci-app-daed feeds/luci/applications/luci-app-passwall
